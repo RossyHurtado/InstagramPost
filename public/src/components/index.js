@@ -1,0 +1,1 @@
+export {default as Postinsta} from "./postinsta/postinsta.js"
