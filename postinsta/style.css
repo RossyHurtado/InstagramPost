@@ -1,0 +1,132 @@
+
+.name {
+   color: black;
+   font-size: 12px;
+   font-family: Helvetica;
+   font-weight: 500;
+   position: absolute;
+   top: 115px;
+   left: 245px;
+
+}
+
+.local {
+   color: rgb(59, 59, 59);
+   font-size: 9px;
+   font-family: Helvetica;
+   font-weight: 500;
+   position: absolute;
+   top: 132px;
+   left: 245px;
+
+}
+   .user{
+      border-radius: 80%;
+      width: 30px;
+      height: 30px;
+      position: absolute;
+      top: 120px;
+      left: 203px;
+      border: 1px solid rgb(242, 67, 152);
+  }
+   
+.heart{
+   width: 23px;
+   position: absolute;
+   top: 500px;
+   left: 200px;
+}
+
+.comment{
+   width: 23px;
+   position: absolute;
+   top: 500px;
+   left: 237px;
+}
+  
+.share{
+   width: 23px;
+   position: absolute;
+   top: 502px;
+   left: 277px;
+}
+  
+.bookmark{
+   width: 23px;
+   position: absolute;
+   top: 500px;
+   left: 533px;
+}
+
+.dot{
+
+   width: 7px;
+   position: absolute;
+   top: 120px;
+   left: 540px;
+   transform: rotate(90deg);
+
+ }
+
+.post{
+   width: 350px;
+   position: absolute;
+   top: 158px;
+   left: 203px;
+}
+
+.description {
+   color: black;
+   opacity: 80%;
+   font-size: 13px;
+   font-family: Helvetica;
+   font-weight: 350;
+   position: absolute;
+   top: 538px;
+   left: 205px;
+  
+}
+ 
+.seen {
+   color: black;
+   font-size: 12px;
+   font-family: Helvetica;
+   position: relative;
+   font-weight: lighter;
+   bottom: 76px;
+   left: 195px;
+}
+
+
+.data {
+   color: rgb(195, 195, 195);
+   font-size: 11px;
+   font-family: Helvetica;
+   position: relative;
+   font-weight: lighter;
+   bottom: 20px;
+   left: 197px;
+}
+
+
+.date {
+   color: rgb(209, 209, 209);
+   font-size: 9px;
+   font-family: Helvetica;
+   position: relative;
+   font-weight: lighter;
+   bottom: 45px;
+   left: 197px;
+}
+
+.card{
+   position:relative;
+   width: 320px;
+   height: 500px;
+   top: 80px ;
+   left: 175px;
+   background: rgb(252, 252, 252);
+   box-shadow: 15px 15px 60px rgba(0,0,0,0.15);
+   padding: 35px;
+
+}
